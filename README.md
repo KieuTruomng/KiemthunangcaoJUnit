@@ -102,14 +102,6 @@ Các trường hợp kiểm thử đã được triển khai trong `AlgorithmUti
    **Từ IDE:**
    - Nhấp chuột phải vào lớp `AlgorithmUtilsTest` và chọn "Run Tests".
 
-3. Kết quả sẽ hiển thị trên console hoặc báo cáo kiểm thử.
-
-## Đóng góp
-Hãy gửi các vấn đề hoặc pull request nếu bạn muốn cải thiện hoặc thêm tính năng mới.
-
-## Giấy phép
-Dự án này được cấp phép theo MIT License. Xem tệp `LICENSE` để biết thêm chi tiết.
-
 ## Mô tả code
 ### 1. **AlgorithmUtils.java**
 ```java
