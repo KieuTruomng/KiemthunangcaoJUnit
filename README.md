@@ -24,14 +24,6 @@ Mục tiêu chính của dự án là cung cấp ví dụ rõ ràng và dễ hi�
 1. Clone repository về máy của bạn:
    ```bash
    git clone https://github.com/KieuTruomng/KiemthunangcaoJUnit.git
-## Cấu trúc dự án
-src/
-├── main/
-│   ├── java/
-│   │   └── AlgorithmUtils.java   # File chứa các thuật toán
-├── test/
-│   ├── java/
-│   │   └── AlgorithmUtilsTest.java  # File kiểm tra các thuật toán bằng JUnit
 
 
 ## Mô tả các phương thức:
