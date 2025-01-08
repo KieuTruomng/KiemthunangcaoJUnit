@@ -27,27 +27,26 @@ Mục tiêu chính của dự án là cung cấp ví dụ rõ ràng và dễ hi�
 
 
 ## Mô tả các phương thức:
-findMax(int[] array)
+1. findMax(int[] array)
 - Tìm giá trị lớn nhất trong mảng số nguyên.
-
 Input: Mảng số nguyên (không null, không rỗng).
 Output: Giá trị lớn nhất trong mảng.
 Ngoại lệ: Ném IllegalArgumentException nếu mảng null hoặc rỗng.
-fibonacci(int n)
-Tính số Fibonacci thứ n.
 
+2. fibonacci(int n)
+- Tính số Fibonacci thứ n.
 Input: Số nguyên n (không âm).
 Output: Số Fibonacci thứ n.
 Ngoại lệ: Ném IllegalArgumentException nếu n < 0.
-isPalindrome(String input)
-Kiểm tra xem chuỗi có phải là Palindrome không.
 
+3. isPalindrome(String input)
+- Kiểm tra xem chuỗi có phải là Palindrome không.
 Input: Chuỗi bất kỳ.
 Output: true nếu chuỗi là Palindrome, false nếu không phải.
 Ngoại lệ: Ném IllegalArgumentException nếu chuỗi null.
-quickSort(int[] array, int low, int high)
-Thuật toán sắp xếp nhanh.
 
+4. quickSort(int[] array, int low, int high)
+- Thuật toán sắp xếp nhanh.
 Input: Mảng số nguyên cần sắp xếp, chỉ số low và high.
 Output: Mảng được sắp xếp tại chỗ (không trả về).
 Ngoại lệ: Ném IllegalArgumentException nếu mảng null.
